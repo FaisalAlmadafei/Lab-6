@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+
+#likeBtn{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+
+}
+
+
+#dislikeBtn{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+}
+
